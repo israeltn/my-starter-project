@@ -1,0 +1,12 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project",
+  "generatedFolder": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\target\\frontend",
+  "frontendFolder": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\src\\main\\java",
+  "connect.applicationProperties": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\target\\generated-resources\\openapi.json",
+  "connect.generated": "C:\\Users\\FRCN\\IdeaProjects\\my-starter-project\\frontend\\generated"
+}
